@@ -189,4 +189,7 @@ color: black;
   .btn-default{
     visibility: hidden;
   }
+    .container-fluid{
+    padding: 0;
+  }
 }
